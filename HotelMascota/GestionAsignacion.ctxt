@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GestionAsignacion
+comment1.params=
+comment1.target=GestionAsignacion()
+comment10.params=
+comment10.target=java.lang.String\ asignarCuidador()
+comment2.params=cuidador\ mascota\ disponible
+comment2.target=GestionAsignacion(Cuidador,\ Mascota,\ boolean)
+comment3.params=
+comment3.target=Cuidador\ getCuidador()
+comment4.params=cuidador
+comment4.target=void\ setCuidador(Cuidador)
+comment5.params=
+comment5.target=Mascota\ getMascota()
+comment6.params=mascota
+comment6.target=void\ setMascota(Mascota)
+comment7.params=
+comment7.target=boolean\ getDisponible()
+comment8.params=disponible
+comment8.target=void\ setDisponible(boolean)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
