@@ -1,2 +1,2 @@
 # HotelMascotas
-En este repositorio se encuentra el problema dado a resolver Hotel Mascotas, junto su codigo y respectivo UML en .mdj
+Repositorio dedicado al Ejercicio de Hotel Mascotas, con su diagrama de clase en UML en archivo ".mdj" en base de POO y hecho con la estructura MVC (Modelo, Vista y Control).
